@@ -1,0 +1,58 @@
+"*":
+  Zen:
+    minimap: true
+    softWrap: true
+    width: 120
+  core:
+    autoHideMenuBar: true
+    projectHome: "/home/henry/Programming"
+    telemetryConsent: "limited"
+    themes: [
+      "one-dark-ui"
+      "monokai"
+    ]
+  editor:
+    fontSize: 21
+    preferredLineLength: 120
+    scrollPastEnd: true
+    scrollSensitivity: 100
+    showInvisibles: true
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+  "exception-reporting":
+    userId: "0d46c7c9-a23b-44c5-8257-d99c46e9726d"
+  "gpp-compiler":
+    cppCompiler: "make"
+    cppCompilerOptions: "./run"
+    debug: true
+    linuxTerminal: "GNOME Terminal"
+  minimap: {}
+  organized:
+    autoCreateStarsOnEnter: false
+    searchDirectories: [
+      "~/Dropbox/orgfiles/"
+      "~/Programming/"
+    ]
+    useBracketsAroundTodoTags: false
+  "platformio-ide-terminal":
+    core: {}
+    style:
+      animationSpeed: 5
+      theme: "one-dark"
+    toggles:
+      autoClose: true
+  "symbols-view": {}
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  "vim-mode-plus":
+    ignoreCaseForSearch: true
+    keymapYToYankToLastCharacterOfLine: true
+  welcome:
+    showOnStartup: false
+  whitespace:
+    ignoreWhitespaceOnCurrentLine: false
+".organized.source":
+  editor:
+    autoIndent: false
+    showInvisibles: true
+    softWrap: true
